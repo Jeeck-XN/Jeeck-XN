@@ -24,7 +24,7 @@
 #
   
   
-< align="center">
+<p align="center">
 <i> <b> TEAM PROJECT : </b> </i>
 </p
   <p align="center">
