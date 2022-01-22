@@ -9,9 +9,9 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/87571831/150638838-05f57025-c6fe-427f-a08b-fd5affed8d96.gif">
 </p>
-<img src=".           ">
+<img src="https://user-images.githubusercontent.com/87571831/150648254-f183d5a5-fca0-42e2-b6ed-292acfd8b906.gif">
 </p>
-<p align="center">
+< align="center">
 <i> <b> NEW ACCOUNT</b> </i>
 </p
 </p
@@ -24,7 +24,7 @@
 #
   
   
-<p align="center">
+< align="center">
 <i> <b> TEAM PROJECT : </b> </i>
 </p
   <p align="center">
