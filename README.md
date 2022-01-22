@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-<img src="https://giffiles.alphacoders.com/120/120248.gif">
+<img src="https://images.app.goo.gl/6WQBspkXmFkqPoxAA">
 </p>
 <p align="center">
 <i> <b>  </b> </i>
