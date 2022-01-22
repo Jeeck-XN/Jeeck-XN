@@ -30,8 +30,10 @@
 
   <p align="center">
 <i> <b>               [2 MR.JEECK</b> </i>
+</p
 <p align="center">
 <i> <b>               [3 YUMASAA X NANO</b> </i>
+</p
 <p align="center">
 <i> <b>               [4 XENZI X GANZ</b> </i>
 </p
