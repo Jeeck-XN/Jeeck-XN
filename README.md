@@ -27,7 +27,15 @@
 </p
   <p align="center">
 <i> <b>               [1 MR.RISKY</b> </i>
-</p
+
   <p align="center">
 <i> <b>               [2 MR.JEECK</b> </i>
+<p align="center">
+<i> <b>               [3 YUMASAA X NANO</b> </i>
+<p align="center">
+<i> <b>               [4 XENZI X GANZ</b> </i>
 </p
+  <p align="center">
+<i> <b>   JANGAN LUPA FOLLOW GITHUB SAYA DAN KASIH BINTANG NYA :) </b> </i>
+</p
+   
