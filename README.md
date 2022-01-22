@@ -1,7 +1,7 @@
 ### Hi 
 
 <p align="center">
-<h1<i> <b> Wellcome To My GitHub<i>
+<i> <b> Wellcome To My GitHub<i>
 <p align="center">
 <i> <b> Naruto Gift</b> </i>
 </p>
@@ -11,5 +11,8 @@
 </p>
 <p align="center">
 <i> <b> NEW ACCOUNT</b> </i>
+</p
+<p align="center">
+<i> <b> My Sosial media</b> </i>
 </p
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/jecko.ramadhan.9)
