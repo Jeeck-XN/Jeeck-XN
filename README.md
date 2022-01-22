@@ -2,6 +2,8 @@
 
 <h1 align="center"> Wellcome To My GitHub </h1>
 <p align="center">
+<i> <b> Wellcome To My GitHub/b> </i>
+<p align="center">
 <i> <b> Naruto Gift</b> </i>
 </p>
 
