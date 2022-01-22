@@ -1,8 +1,7 @@
 ### Hi 
 
-<h1 align="center"> Wellcome To My GitHub </h1>
 <p align="center">
-<i> <b> Wellcome To My GitHub<i>
+<h1<i> <b> Wellcome To My GitHub<i>
 <p align="center">
 <i> <b> Naruto Gift</b> </i>
 </p>
