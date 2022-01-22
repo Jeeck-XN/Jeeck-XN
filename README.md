@@ -9,6 +9,8 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/87571831/150638838-05f57025-c6fe-427f-a08b-fd5affed8d96.gif">
 </p>
+<img src=".           ">
+</p>
 <p align="center">
 <i> <b> NEW ACCOUNT</b> </i>
 </p
