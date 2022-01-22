@@ -11,7 +11,7 @@
 </p>
 <img src="https://user-images.githubusercontent.com/87571831/150648254-f183d5a5-fca0-42e2-b6ed-292acfd8b906.gif">
 </p>
-< align="center">
+<p align="center">
 <i> <b> NEW ACCOUNT</b> </i>
 </p
 </p
