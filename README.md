@@ -12,8 +12,6 @@
 <p align="center">
 <i> <b> NEW ACCOUNT</b> </i>
 </p
-<p align="center">
-<i> <b> My Sosial media</b> </i>
 </p
   
 #
